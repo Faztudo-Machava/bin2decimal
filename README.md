@@ -1,2 +1,2 @@
 # bin2decimal
-A simple javascript project that make notes registration.
+A simple Vanilla JavaScript project that convert binary numbers to decimal numbers.
